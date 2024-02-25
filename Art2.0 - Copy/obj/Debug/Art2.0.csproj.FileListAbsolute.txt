@@ -1,0 +1,42 @@
+D:\Facultate\BD\Art2.0\bin\Debug\Art2.0.exe.config
+D:\Facultate\BD\Art2.0\bin\Debug\Art2.0.exe
+D:\Facultate\BD\Art2.0\bin\Debug\Art2.0.pdb
+D:\Facultate\BD\Art2.0\obj\Debug\Art2.0.csproj.AssemblyReference.cache
+D:\Facultate\BD\Art2.0\obj\Debug\Art2._0.Form1.resources
+D:\Facultate\BD\Art2.0\obj\Debug\Art2._0.Properties.Resources.resources
+D:\Facultate\BD\Art2.0\obj\Debug\Art2.0.csproj.GenerateResource.cache
+D:\Facultate\BD\Art2.0\obj\Debug\Art2.0.csproj.CoreCompileInputs.cache
+D:\Facultate\BD\Art2.0\obj\Debug\Art2.0.exe
+D:\Facultate\BD\Art2.0\obj\Debug\Art2.0.pdb
+D:\Facultate\BD\Art2.0\obj\Debug\Art2._0.Form2.resources
+D:\Facultate\BD\Art2.0 - Copy\obj\Debug\Art2.0.csproj.AssemblyReference.cache
+D:\Facultate\BD\Art2.0 - Copy\obj\Debug\Art2._0.Form1.resources
+D:\Facultate\BD\Art2.0 - Copy\obj\Debug\Art2._0.Form2.resources
+D:\Facultate\BD\Art2.0 - Copy\obj\Debug\Art2._0.Properties.Resources.resources
+D:\Facultate\BD\Art2.0 - Copy\obj\Debug\Art2.0.csproj.GenerateResource.cache
+D:\Facultate\BD\Art2.0 - Copy\obj\Debug\Art2.0.csproj.CoreCompileInputs.cache
+D:\Facultate\BD\Art2.0 - Copy\obj\Debug\Art2.0.exe
+D:\Facultate\BD\Art2.0 - Copy\obj\Debug\Art2.0.pdb
+D:\Facultate\BD\Art2.0 - Copy\bin\Debug\Art2.0.exe.config
+D:\Facultate\BD\Art2.0 - Copy\bin\Debug\Art2.0.exe
+D:\Facultate\BD\Art2.0 - Copy\bin\Debug\Art2.0.pdb
+C:\Users\user\Desktop\Art2.0 - Copy\bin\Debug\Art2.0.exe.config
+C:\Users\user\Desktop\Art2.0 - Copy\bin\Debug\Art2.0.exe.manifest
+C:\Users\user\Desktop\Art2.0 - Copy\bin\Debug\Art2.0.application
+C:\Users\user\Desktop\Art2.0 - Copy\bin\Debug\Art2.0.exe
+C:\Users\user\Desktop\Art2.0 - Copy\bin\Debug\Art2.0.pdb
+C:\Users\user\Desktop\Art2.0 - Copy\obj\Debug\Art2.0.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Art2.0 - Copy\obj\Debug\Art2._0.Form1.resources
+C:\Users\user\Desktop\Art2.0 - Copy\obj\Debug\Art2._0.Properties.Resources.resources
+C:\Users\user\Desktop\Art2.0 - Copy\obj\Debug\Art2.0.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Art2.0 - Copy\obj\Debug\Art2.0.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Art2.0 - Copy\obj\Debug\Art2.0.exe.manifest
+C:\Users\user\Desktop\Art2.0 - Copy\obj\Debug\Art2.0.application
+C:\Users\user\Desktop\Art2.0 - Copy\obj\Debug\Art2.0.exe
+C:\Users\user\Desktop\Art2.0 - Copy\obj\Debug\Art2.0.pdb
+C:\Users\user\Desktop\Art2.0 - Copy\obj\Debug\Art2._0.Form4.resources
+C:\Users\user\Desktop\Art2.0 - Copy\obj\Debug\Art2._0.Form5.resources
+C:\Users\user\Desktop\Art2.0 - Copy\obj\Debug\Art2._0.Form6.resources
+C:\Users\user\Desktop\Art2.0 - Copy\obj\Debug\Art2._0.Form7.resources
+C:\Users\user\Desktop\Art2.0 - Copy\obj\Debug\Art2._0.Form8.resources
+C:\Users\user\Desktop\Art2.0 - Copy\obj\Debug\Art2._0.Form9.resources
